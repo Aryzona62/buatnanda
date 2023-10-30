@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "test",
+        "marker_image": "https:\/\/www.google.com\/url?sa=i&url=https%3A%2F%2Funair.ac.id%2Fperforma-aktivitas-pembenihan-ikan-gurame%2F&psig=AOvVaw1Snu4FWmCdFFl7_qJlan4A&ust=1698294333901000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDUjcatkIIDFQAAAAAdAAAAABAD",
+        "url": "detail-rekomendasi\/6",
+        "address": "pantai legon baruasdasd",
+        "latitude": "-6.978397057846907",
+        "longitude": "106.41360052203564",
+        "komoditas_id": 6,
+        "created_at": "2023-10-25T07:48:10.000000Z",
+        "updated_at": "2023-10-25T07:48:10.000000Z"
+    },
+    {
+        "id": 2,
+        "title": "test",
+        "marker_image": "https:\/\/www.google.com\/url?sa=i&url=https%3A%2F%2Funair.ac.id%2Fperforma-aktivitas-pembenihan-ikan-gurame%2F&psig=AOvVaw1Snu4FWmCdFFl7_qJlan4A&ust=1698294333901000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDUjcatkIIDFQAAAAAdAAAAABAD",
+        "url": "detail-rekomendasi\/6",
+        "address": "test",
+        "latitude": "-6.5822868541428114",
+        "longitude": "106.80921852944253",
+        "komoditas_id": 6,
+        "created_at": "2023-10-29T17:34:02.000000Z",
+        "updated_at": "2023-10-29T17:34:02.000000Z"
+    }
+]
